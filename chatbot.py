@@ -121,7 +121,7 @@ functions= [
         'properties':{
         'ticker':{
             'type':'string',
-            'description':' The stock ticker symbol for a company (For example AAPL for apple. Note FB is renamed to META)'
+            'description':' The stock ticker symbol for a company '
         }
         },
         'required':['ticker']
